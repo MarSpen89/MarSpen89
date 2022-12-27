@@ -6,7 +6,7 @@
   - [Cryptography & Data Security Lab, Using Hash Functions to Validate Data Integrity]
   - [Cryptograqphy & Data Security Lab, Using Disk Encryption]
   - [Operating Systems Security Lab, Hardening Windows Systems]
-  - [Operating Systems Security Lab, Hardening Linux Systems
+  - [Operating Systems Security Lab, Hardening Linux Systems]
 <h2>TESU My Portfolio</h2>
 https://myportfolio.tesu.edu/view/view.php?t=6XEUAtj2OVDCghLbk3BN
 
