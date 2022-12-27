@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/https://github.com/MarSpen89)
-
+  - [Cryptography & Data Security Lab, Using Hash Functions to Validate Data Integrity]
 
 <h2>TESU My Portfolio</h2>
 https://myportfolio.tesu.edu/view/view.php?t=6XEUAtj2OVDCghLbk3BN
