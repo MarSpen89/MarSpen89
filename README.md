@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/https://github.com/MarSpen89)
 
 
-<h2>THOMAS EDISON STATE UNIVERSITY MY PORTFOLIO</h2>
+<h2>TESU My Portfolio</h2>
 https://myportfolio.tesu.edu/view/view.php?t=6XEUAtj2OVDCghLbk3BN
 
 <h2> 🤳 Connect with me:</h2>
