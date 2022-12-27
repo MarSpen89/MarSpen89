@@ -4,7 +4,9 @@
 
   - [Active Directory Home Lab](https://github.com/https://github.com/MarSpen89)
   - [Cryptography & Data Security Lab, Using Hash Functions to Validate Data Integrity]
-
+  - [Cryptograqphy & Data Security Lab, Using Disk Encryption]
+  - [Operating Systems Security Lab, Hardening Windows]
+  - 
 <h2>TESU My Portfolio</h2>
 https://myportfolio.tesu.edu/view/view.php?t=6XEUAtj2OVDCghLbk3BN
 
