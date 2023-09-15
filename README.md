@@ -1,6 +1,12 @@
 <h1>Hi! I'm Marcedes <br/><a href="https://linkedin.com/in/marcedes-spence-700680162/">Full Stack Developer</a>, <a href="https://github.com/MarSpen89"></a> <a>&</a> <a> href="https://linkedin.com/in/marcedes-spence-700680162/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>About Me
+Name: Marcedes Spence
+Location: Orlando
+LinkedIn: https://www.linkedin.com/in/marcedes-spence-700680162/
+Email: marcedes.spence@owasp.org</h2>
+
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
   - [Active Directory Home Lab](https://github.com/https://github.com/MarSpen89)
   - [Cryptography & Data Security Lab, Using Hash Functions to Validate Data Integrity]
