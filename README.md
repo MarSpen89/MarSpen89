@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcedes! <br/><a href="https://linkedin.com/in/marcedes-spence-700680162/">Cybersecurity professional</a>, <a href="https://github.com/MarSpen89"><a>Air Force Veteran</a></h1>
+<h1>Hi, I'm Marcedes! <br/><a href="https://linkedin.com/in/marcedes-spence-700680162/">Cybersecurity professional</a>, <a href="https://github.com/MarSpen89"><a>Developer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
